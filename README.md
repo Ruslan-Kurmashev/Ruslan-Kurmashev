@@ -2,12 +2,6 @@
   <img src="assets/banner.svg" alt="banner" width="100%" />
 </p>
 
-<h2 align="center">Ruslan | Computational Biology × Digital Health</h2>
-
-<p align="center">
-  Medical Doctor & MSc in Computational Biology building reproducible, privacy-aware analytics pipelines in Python/Nextflow.
-  </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ruslankurmashev/">LinkedIn</a> •
   <a href="https://orcid.org/0009-0006-7588-5319">ORCID</a> •
