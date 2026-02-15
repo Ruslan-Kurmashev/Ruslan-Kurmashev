@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
   <defs>
     <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset="1" stop-color="#0f766e"/>
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#0f766e"/>
     </linearGradient>
   </defs>
 
@@ -10,11 +10,11 @@
   <circle cx="1060" cy="60" r="140" fill="rgba(255,255,255,0.08)"/>
   <circle cx="1140" cy="190" r="200" fill="rgba(255,255,255,0.05)"/>
 
-  <text x="55" y="95" font-family="Inter, Arial" font-size="46" fill="#ffffff" font-weight="700">
-    Ruslan | Computational Biology × Digital Health
+  <text x="55" y="95" font-family="Arial, Helvetica, sans-serif" font-size="46" fill="#ffffff" font-weight="700">
+    Ruslan | Computational Biology &amp; Digital Health
   </text>
 
-  <text x="55" y="140" font-family="Inter, Arial" font-size="20" fill="rgba(255,255,255,0.88)">
-    MD • MSc Computational Biology • Reproducible pipelines (Python, Nextflow)
+  <text x="55" y="140" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="rgba(255,255,255,0.88)">
+    MD &#8226; MSc Computational Biology &#8226; Reproducible pipelines (Python, Nextflow)
   </text>
 </svg>
