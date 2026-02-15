@@ -1,16 +1,28 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="banner" width="100%" />
+</p>
 
-<!--
-**Ruslan-Kurmashev/Ruslan-Kurmashev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Ruslan | Computational Biology × Digital Health</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computational biologist. Reproducible pipelines (Python, Nextflow). Open science • practical impact.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ruslankurmashev/">LinkedIn</a> •
+  <a href="https://orcid.org/0009-0006-7588-5319">ORCID</a> •
+  <a href="mailto:ruslankurmasev0@gmail.com">Email</a>
+</p>
+
+---
+
+## What I build
+- Reproducible bioinformatics pipelines
+- Nextflow workflows
+
+## Tech stack
+- Python (pandas, NumPy, PyTorch)
+- R
+- Nextflow
+- Docker
+- Bash
