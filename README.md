@@ -5,8 +5,8 @@
 <h2 align="center">Ruslan | Computational Biology × Digital Health</h2>
 
 <p align="center">
-  Computational biologist. Reproducible pipelines (Python, Nextflow). Open science • practical impact.
-</p>
+  Medical Doctor & MSc in Computational Biology building reproducible, privacy-aware analytics pipelines in Python/Nextflow.
+  </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruslankurmashev/">LinkedIn</a> •
@@ -16,13 +16,11 @@
 
 ---
 
-## What I build
-- Reproducible bioinformatics pipelines
-- Nextflow workflows
+## Focus
+- Reproducible bioinformatics and data science pipelines
+- Clinical data review and audit-ready documentation (GDPR, ICH-GCP awareness)
+- Microbiome (16S) analytics and applied ML
 
 ## Tech stack
-- Python (pandas, NumPy, PyTorch)
-- R
-- Nextflow
-- Docker
-- Bash
+Python: pandas, NumPy, scikit-learn, PyTorch  
+Nextflow • Docker • Bash
